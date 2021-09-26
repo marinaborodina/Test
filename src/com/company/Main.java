@@ -9,6 +9,5 @@ public class Main {
 =======
         System.out.println("Git remote merge test");
         System.out.println("New feature");
->>>>>>> newfeature
     }
 }
